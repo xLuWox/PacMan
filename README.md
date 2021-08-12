@@ -1,4 +1,4 @@
-# PacMan
+# PacMan :joystick:
 ## Pacman in Java for Windows
 
 - requires **Java** and **Java FX**.
