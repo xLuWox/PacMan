@@ -1,9 +1,9 @@
 # PacMan
-Pacman in Java for Windows
+## Pacman in Java for Windows
 
--requires <b>Java</b> and <b>Java FX</b>.
+- requires **Java** and **Java FX**.
 
--testet with JavaFX version 15.0.1, Open JDK Java Version 15.0.1
+- testet with JavaFX version 15.0.1, Open JDK Java Version 15.0.1
 
 start command: <br>
 <em> java --module-path "YOUR_JAVAFX_LIB_PATH" --add-modules javafx.controls,javafx.fxml,javafx.base,javafx.graphics,javafx.media -jar .\PacMan_V.1.0.jar </em>
