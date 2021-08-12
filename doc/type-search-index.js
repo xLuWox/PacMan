@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"application","l":"AllertBox"},{"p":"application","l":"Handler"},{"p":"application","l":"Main"},{"p":"application","l":"Menu"},{"p":"application","l":"ScoreFile"},{"p":"application","l":"Soundboard"},{"p":"application","l":"Spiel"},{"p":"application","l":"SpielFeld"}];updateSearchResults();
