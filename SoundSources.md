@@ -5,7 +5,7 @@ David Renda (2019): 8-Bit Menu
 
 **Game music**
 David Renda(2020): Acarde Kid
-(https://www.fesliyanstudios.com/royalty-free-music/download/arcade-kid/618), 04.08.2021)
+(https://www.fesliyanstudios.com/royalty-free-music/download/arcade-kid/618 , 04.08.2021)
 
 **Death sounds**
 Unknown
@@ -13,7 +13,7 @@ Unknown
 
 **Item sound**
 Unknown
-(tek.site.nfoservers.com/server/sound/misc/pac_cherry.wav, 04.08.2021)
+([tek.site.nfoservers.com/server/sound/misc/pac_cherry.wav](tek.site.nfoservers.com/server/sound/misc/pac_cherry.wav)), 04.08.2021)
 
 **Win Sound**
 Little Robot Sounds
