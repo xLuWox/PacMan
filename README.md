@@ -1,7 +1,7 @@
 # PacMan :joystick:
 ## Pacman in Java for Windows
 
-- requires **Java** and **Java FX**.
+- requires [**Java**](https://openjdk.java.net/) and [**Java FX**](https://openjfx.io/).
 
 - testet with JavaFX version 15.0.1, Open JDK Java Version 15.0.1
 
